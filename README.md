@@ -1,3 +1,3 @@
 # choicer
 摇号机
-626tool
+626tools
